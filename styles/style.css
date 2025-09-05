@@ -188,6 +188,33 @@ nav ul li a{
 }
 /* join section styles end */
 
+/* footer styles start */
+footer{
+    text-align: center;
+    background-color: #0A0826;
+    padding: 50px 0;
+    color: #FFFFFF;
+}
+footer h2{
+    font-size: 2.3rem;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+footer p{
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: rgba(217, 219, 225, 1);
+    margin-bottom: 17px;
+}
+footer a{
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-right: 16px;
+}
+/* footer styles end */
+
 
 @media screen and (max-width: 567px) {
     .none-mobile{
